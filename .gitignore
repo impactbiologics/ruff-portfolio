@@ -1,0 +1,5 @@
+# Ignore everything except the encrypted page
+*
+!index.html
+!.nojekyll
+!.gitignore
